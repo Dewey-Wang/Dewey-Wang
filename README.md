@@ -2,14 +2,10 @@
 <h3 align="center">Bioinformatics & Computational Biology Researcher</h3>
 <p align="center">Passionate about Multi-Omics, AI-Driven Analysis, and Scalable Pipelines</p>
 
----
-
 ## 🌟 About Me
 - 🧬 **Focus**: Multi-omics, NGS sequencing, spatial transcriptomics, computational biology  
 - 🎓 **Current Work**: Building Nextflow pipelines and exploring AI in biological omics data  
 - 🌱 **Interests**: <p align="justify">I love merging AI with bioinformatics to build tools and tackle tough biological puzzles. Also, I have a keen interest in developing algorithms, cheminformatics, drug discovery, computational protein design, and leveraging bioinformatics for next-generation organoid development.</p>
-
----
 
 ## 🛠 Skills & Tools
 
@@ -37,16 +33,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![YAML](https://img.shields.io/badge/YAML-%23ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
 
-*Note*: Tools like HTML5, CSS, Node.js, React, n8n, MongoDB, and DynamoDB are available in my skillset but omitted here for focus.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dewey-Wang&layout=compact&theme=dark&count_private=true&show_icons=true&include_all_commits=true" alt="Dewey-Wang Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewey-Wang&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,css,jupyter%20notebook" alt="Dewey-Wang Languages" height="180px"/>
 </p>
 
----
+*Note*: Tools like HTML5, CSS, Node.js, React, n8n, MongoDB, and DynamoDB are available in my skillset but omitted here for focus.
 
 ## 📬 Connect with Me
 <p align="center">

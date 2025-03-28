@@ -7,8 +7,8 @@
 ## 🌟 About Me
 - 🧬 **Focus**: Multi-omics, NGS sequencing, spatial transcriptomics, computational biology  
 - 🎓 **Current Work**: Building Nextflow pipelines and exploring AI in biological omics data  
-- 🌱 **Interests**: I love merging AI with bioinformatics to build tools and tackle tough biological puzzles. Also, I have a keen interest in developing algorithms, cheminformatics, drug discovery, computational protein design, and leveraging bioinformatics for next-generation organoid development.
- 
+- 🌱 **Interests**: <p align="justify">I love merging AI with bioinformatics to build tools and tackle tough biological puzzles. Also, I have a keen interest in developing algorithms, cheminformatics, drug discovery, computational protein design, and leveraging bioinformatics for next-generation organoid development.</p>
+
 ---
 
 ## 🛠 Skills & Tools
@@ -41,7 +41,6 @@
 
 ---
 
-## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dewey-Wang&layout=compact&theme=dark&count_private=true&show_icons=true&include_all_commits=true" alt="Dewey-Wang Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewey-Wang&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,css,jupyter%20notebook" alt="Dewey-Wang Languages" height="180px"/>

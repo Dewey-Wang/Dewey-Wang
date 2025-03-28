@@ -1,72 +1,59 @@
 <h1 align="center">Hi 👋, I'm Dewey Wang</h1>
-<h3 align="center">Bioinformatics Enthusiast | Systems Biology & Computational Biology Researcher</h3>
-
-- 🌍 **Based in [Your Country] 🌎, Passionate About Computational Biology and AI-driven Bioinformatics**
-  
-- 🎯 **Experience and Projects:**
-  - **Bioinformatics and Cancer Research**: Currently working on bioinformatics pipelines for analyzing genomic and transcriptomic data, with a focus on cancer biology.
-  - **Single-Cell RNA-seq Analysis**: Performing scRNA-seq data analysis to uncover cell-type-specific gene expression and immune system interactions in disease models.
-  - **DNA Methylation and Epigenetics**: Investigating the impact of DNA methylation on gene regulation in various biological contexts.
-  - **Development of Computational Pipelines**: Creating reproducible workflows using **Nextflow** and **Snakemake** for high-throughput sequencing data analysis.
-
-- 🌱 I’m currently learning **machine learning for bioinformatics**, **TCR repertoire analysis**, and **deep learning for genomics**.
-
-- 💬 Ask me about **molecular biology, bioinformatics, and transcriptomics**.
-
-- ⚡ Fun Fact: I enjoy working with **Raspberry Pi** and **Arduino** to build innovative biotech applications.
-
-- ✉️ How to reach me: [Check out my profiles on Linktree](https://linktr.ee/Dewey-Wang)
+<h3 align="center">Bioinformatics & Computational Biology Researcher</h3>
+<p align="center">Passionate about Multi-Omics, AI-Driven Analysis, and Scalable Pipelines</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="72" height="72"/> 
-</a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="72" height="72"/> 
-</a> 
-<a href="logos/Bash.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Bash.png" alt="Bash" width="72" height="72"/> 
-</a>
-<a href="logos/nextflow_log.png" target="_blank" rel="noreferrer"> 
-<img src="logos/nextflow_log.png" alt="Nextflow" width="72" height="72"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="72" height="72"/> 
-</a>
-<a href="logos/conda_logo.png" target="_blank" rel="noreferrer"> 
-<img src="logos/conda_logo.png" alt="Conda" width="72" height="72"/> 
-</a>
-<a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Seurat.png" alt="Seurat" width="81" height="72"/> 
-</a>
-<a href="logos/DESeq2.png" target="_blank" rel="noreferrer"> 
-<img src="logos/DESeq2.png" alt="DESeq2" width="72" height="72"/> 
-</a>
-<a href="logos/limma.png" target="_blank" rel="noreferrer"> 
-<img src="logos/limma.png" alt="limma" width="72" height="72"/> 
-</a>
-<a href="logos/Arduino.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Arduino.png" alt="Arduino" width="72" height="72"/> 
-</a>
-<a href="logos/raspberry-pi.svg" target="_blank" rel="noreferrer"> 
-<img src="logos/raspberry-pi.svg" alt="Raspberry-Pi" width="72" height="72"/> 
-</a>
+## 🌟 About Me
+- 🧬 **Focus**: Multi-omics, single-cell RNA sequencing, spatial transcriptomics, computational biology  
+- 🎓 **Current Work**: Building Nextflow pipelines and exploring AI in biological omics data
+- 🚀 **Fun Fact**: I love merging AI with bioinformatics and building tools to tackle tough biological puzzles!  
+
+---
+
+## 🛠 Skills & Tools
+
+### Core Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-%23008080?style=for-the-badge&logo=nextflow&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![YAML](https://img.shields.io/badge/YAML-%23ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
+
+*Note*: Tools like HTML5, CSS, Node.js, React, n8n, MongoDB, and DynamoDB are available in my skillset but omitted here for focus.
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dewey-Wang&layout=compact&theme=dark&count_private=true&show_icons=true&include_all_commits=true" alt="Dewey-Wang Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewey-Wang&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,css,jupyter%20notebook" alt="Dewey-Wang Languages" height="180px"/>
 </p>
 
 ---
 
+## 📬 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dewey-Wang&layout=compact&theme=dark&count_private=true&show_icons=true&include_all_commits=true"
-    alt="Dewey-Wang Stats"
-    height="195px"/>
-</a>
-<a align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewey-Wang&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,CSS,jupyter%20notebook" alt="Dewey-Wang Languages"
-    alt="Dewey-Wang Langs"
-    height="195px"
-    />
-</a>
+  <a href="mailto:deweywang2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/deweywang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+<p align="center">
+  <a href="mailto:deweywang2000@gmail.com">deweywang2000@gmail.com</a> | <a href="https://www.linkedin.com/in/deweywang">linkedin.com/in/deweywang</a>
 </p>

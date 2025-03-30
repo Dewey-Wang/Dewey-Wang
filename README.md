@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewey-Wang&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,css,jupyter%20notebook" alt="Dewey-Wang Languages" height="180px"/>
 </p>
 
-*Note*: Tools like HTML5, CSS, Node.js, React, n8n, MongoDB, and DynamoDB are available in my skillset but omitted here for focus.
+*Note*: Tools like HTML5, CSS, Express.js, Node.js, React, n8n, MongoDB, and DynamoDB are available in my skillset but omitted here for focus.
 
 ## 📬 Connect with Me
 <p align="center">

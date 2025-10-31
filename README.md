@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 - 🧬 **Focus**: Multi-omics, NGS sequencing, spatial transcriptomics, computational biology  
-- 🌱 **Interests**: <p align="justify">I love merging AI with bioinformatics to build tools and tackle tough biological puzzles.
+- 🌱 **Interests**: I love merging AI with bioinformatics to build tools and tackle tough biological puzzles.
 
 ## 🛠 Skills & Tools
 

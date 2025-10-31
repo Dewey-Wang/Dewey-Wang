@@ -4,8 +4,7 @@
 
 ## 🌟 About Me
 - 🧬 **Focus**: Multi-omics, NGS sequencing, spatial transcriptomics, computational biology  
-- 🎓 **Current Work**: Building Nextflow pipelines and exploring AI in biological omics data  
-- 🌱 **Interests**: <p align="justify">I love merging AI with bioinformatics to build tools and tackle tough biological puzzles. Also, I have a keen interest in developing algorithms, cheminformatics, drug discovery, computational protein design, and leveraging bioinformatics for next-generation organoid development.</p>
+- 🌱 **Interests**: <p align="justify">I love merging AI with bioinformatics to build tools and tackle tough biological puzzles.
 
 ## 🛠 Skills & Tools
 
